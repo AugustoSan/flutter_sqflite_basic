@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_sqflite_basic/models/password_model.dart';
 import 'package:flutter_sqflite_basic/providers/password_provider.dart';
 import 'package:provider/provider.dart';
 
